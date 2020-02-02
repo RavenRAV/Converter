@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RavenA3L7</string>
+    <string name="result">результат</string>
+    <string name="hint">введите сумму</string>
+</resources>
